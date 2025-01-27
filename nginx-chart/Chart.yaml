@@ -1,0 +1,9 @@
+apiVersion: v2
+appVersion: 1.0.0
+description: My First Helm Chart
+maintainers:
+- email: contact@devopscube.com
+  name: devopscube
+name: nginx-chart
+type: application
+version: 0.1.0

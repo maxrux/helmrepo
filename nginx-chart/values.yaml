@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-replicaCount: 1
-=======
-replicaCount: 2
->>>>>>> 09ea95e0cb48bdd1324584df4e9c53820ee718c9
+replicaCount: 3
 
 image:
   repository: nginx

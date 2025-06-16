@@ -1,4 +1,4 @@
-replicaCount: 0
+replicaCount: 2
 
 image:
   repository: nginx
@@ -13,3 +13,4 @@ service:
 
 env:
   name: dev
+  
